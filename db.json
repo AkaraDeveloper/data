@@ -1,5 +1,6 @@
 {
-  "products":[
+  "products":
+  [
     {
       "id": "1",
       "name": "Product 1",
@@ -109,6 +110,6 @@
       "country" : "homemade",
       "image" : "https://imageupload.io/ib/IjXvTpkUlU6Pygq_1698416320.png",
       "postAt": "Just now"
-    },
+    }
   ]
 }
